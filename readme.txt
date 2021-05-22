@@ -27,4 +27,4 @@ niste useri declarati random.
 
 --> Pentru a iesi din componentele Carti, Recenzii si Utilizatori, se poate apasa iconita din stanga sus din fiecare componenta,
 sau se apasa iar(toggle) pe iconita cu Carti si cu Recenzii ( la componenta cu utilizatori merge DOAR prin iconita de iesire din 
-componenta).
+componenta)
